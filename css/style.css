@@ -1149,6 +1149,7 @@
       z-index: 1000;
       transition: all .2s;
       overflow: auto;
+      justify-content: flex-start;
     }
     .shown{
       left: 0;
@@ -1168,7 +1169,7 @@
       font-size: 20px;
       line-height: 40px;
       text-align: left;
-      margin:  0 0 200px 0;
+      margin:  0;
       background-color: #24262b;;
       width: 100%;
     }
